@@ -107,6 +107,8 @@ GraphQL-specific analysis
 Reduced CI time by analyzing only changed files
 * https://github.com/SketchUp/rubocop-sketchup[rubocop-sketchup] -
 SketchUp Ruby API specific analysis
+* https://github.com/meetcleo/rubocop-magic_numbers[rubocop-magic_numbers] -
+Warns against the use of Magic Numbers in the codebase.
 
 Any extensions missing? Send us a Pull Request!
 
